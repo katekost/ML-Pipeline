@@ -5,7 +5,6 @@ import os
 import pandas as pd
 import numpy as np
 
-os.chdir("D:\BI\mltscn_combine_0.1_data")
 print("Current working directory: ", os.getcwd())
 
 def RecodeTarget(series):
